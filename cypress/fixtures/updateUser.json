@@ -1,0 +1,14 @@
+{
+    "validUpdate": {
+        "name": "Tenali Updated",
+        "gender": "male",
+        "email": "tenali.updated+{{random}}@15ce.com",
+        "status": "inactive"
+    },
+    "invalidUpdate": {
+        "name": "Invalid Update",
+        "gender": "male",
+        "email": "bad-email-format",
+        "status": "inactive"
+    }
+}

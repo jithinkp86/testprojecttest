@@ -1,0 +1,14 @@
+{
+  "validUser": {
+    "name": "Tenali Ramakrishna",
+    "gender": "male",
+    "email": "tenali.ramakrishna+{{random}}@15ce.com",
+    "status": "active"
+  },
+  "invalidUser": {
+    "name": "Invalid User",
+    "gender": "male",
+    "email": "invalid-email-format",
+    "status": "active"
+  }
+}
